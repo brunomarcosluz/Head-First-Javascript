@@ -1,4 +1,4 @@
-# Use a Cabeça! Javascript
+<h1 align="center">Use a Cabeça! Javascript</h1>
 
 Repostirório não oficial, com exercícios resolvidos do livro 'Use a Cabeça! Javascript' da série de livros Head First
 
